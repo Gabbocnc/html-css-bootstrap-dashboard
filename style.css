@@ -1,0 +1,14 @@
+.support{
+    background-image: url(.//img/5aa55a0ac485a6beef8ac9a1ed1c0d5a.jpg);
+    max-width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    ::placeholder{
+        color: white;
+        text-align: center;
+    }       
+}
+
+
+    
